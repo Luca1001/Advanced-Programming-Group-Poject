@@ -1,4 +1,4 @@
-## Advanced Programming Group 25 Project
+# Advanced Programming Group 25 Project
 
 ## Getting Started
 
